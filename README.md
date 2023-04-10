@@ -19,8 +19,19 @@
 ### 团契有什么活动 WHAT DO WE DO?
 我们有圣经研读、专题讲座(涵盖艺术、历史、科学与社会热点话题)、茶话会等多种丰富的室内活动。此外亦有野餐、徒步、骑行与球类运动等多种室外活动。
 
-![2022 Camping](2022-camping-1.jpg)
-![2022 Camping](2022-picnic-1.jpg)
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="2022-camping-1.jpg" width="400"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="2022-picnic-1.jpg" width="300"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
 
 
 ### 团契与教会 FELLOWSHIP AND CHURCH
