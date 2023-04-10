@@ -25,15 +25,13 @@
 牛津校园团契隶属于[牛津华人福音教会](https://www.ocgc.org.uk/)，成立于2010年。作为基督徒和慕道友，对圣经真理的观察、探讨与寻求是我们日常生活中不可或缺的一部分。以下是我们的每周常规聚会时间，欢迎加入：
 
 + 校园团契聚会时间: 
-每周五 18:00- 20:00
-地点: St Michael at the NorthGate, Cornmarket Street, Oxford, OX1 3EY
+  每周五 18:00- 20:00
+  地点: St Michael at the NorthGate, Cornmarket Street, Oxford OX1 3EY
 
 + 周日主日崇拜时间:
-(国语) 每周日 10:00 -11:30
-(粤语) 每周日 12:00- 13:30
-地点: Oxford High School
-Belbroughton Rd
-Oxford Ox2 6XA
+  (国语) 每周日 10:00 -11:30
+  (粤语) 每周日 12:00- 13:30
+  地点: Oxford High School, Belbroughton Rd, Oxford Ox2 6XA
 
 作为一个大家庭，我们在牛津一同奔跑、一同成长，分享大学生活的起起伏伏与酸甜苦辣。在新学期来临之际，欢迎参与我们的周五团契聚会以及之后一系列的精彩活动。
 
