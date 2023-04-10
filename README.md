@@ -1,6 +1,8 @@
 # Oxford Chinese Student Fellowship 牛津华人学生团契
 
+<p align="center">
 “我就是道路，真理，生命。” John 14:6
+</p>
 
 <br />
 
@@ -19,6 +21,7 @@
 ### 团契有什么活动 WHAT DO WE DO?
 我们有圣经研读、专题讲座(涵盖艺术、历史、科学与社会热点话题)、茶话会等多种丰富的室内活动。此外亦有野餐、徒步、骑行与球类运动等多种室外活动。
 
+<p align="center">
 <div id="image-table">
     <table>
 	    <tr>
@@ -34,6 +37,7 @@
         </tr>
     </table>
 </div>
+</p>
 
 
 
