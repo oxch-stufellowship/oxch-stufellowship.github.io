@@ -63,3 +63,10 @@ Oxford Ox2 6XA
 
 ### John弟兄·上海·牛津材料科学博士生
 > “很感恩在这里结交了一群又一群的朋友，大家有着截然不同的求学经历、文化背景，也带着不同的目的来到这里，令人感叹人生的多样性，同时更惊讶于能和大家在一起渐渐地建立信任，能彼此敞开地分享在异乡学习生活中心态的变化，遇到的挑战，或许我们不是每次都能找到问题的答案，但每次都能更加亲近提供答案的那位。”
+
+
+
+## 资源共享 RESOURCES
+
+### [评亚斯伯里复兴 (David Tang)](https://www.truthandgrace.online/8765/)
+### [《力量之戒》影评 (David Tang)](http://www.pacilution.com/ShowArticle.asp?ArticleID=12837)
