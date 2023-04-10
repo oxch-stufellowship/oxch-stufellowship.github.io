@@ -70,4 +70,4 @@ Oxford Ox2 6XA
 
 + [评亚斯伯里复兴 (David Tang)](https://www.truthandgrace.online/8765/)
 + [《力量之戒》影评 (David Tang)](http://www.pacilution.com/ShowArticle.asp?ArticleID=12837)
-+ [是否应对收买被拐妇女加刑 (Loveday Liu)](https://mp.weixin.qq.com/s/J4qn1fg5lqs3JK7NlYcgIg)
++ [铁链女事件：是否应对收买被拐妇女加刑 (Loveday Liu)](https://mp.weixin.qq.com/s/J4qn1fg5lqs3JK7NlYcgIg)
