@@ -23,10 +23,10 @@
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="2022-camping-1.jpg" width="400"/>
+        	    <img src="2022-camping-1.jpg" height="250"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="2022-picnic-1.jpg" width="300"/>
+            	<img src="2022-picnic-1.jpg" height="250"/>
             </td>
         </tr>
     </table>
