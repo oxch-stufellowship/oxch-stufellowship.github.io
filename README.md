@@ -68,5 +68,5 @@ Oxford Ox2 6XA
 
 ## 资源共享 RESOURCES
 
-### [评亚斯伯里复兴 (David Tang)](https://www.truthandgrace.online/8765/)
-### [《力量之戒》影评 (David Tang)](http://www.pacilution.com/ShowArticle.asp?ArticleID=12837)
++ [评亚斯伯里复兴 (David Tang)](https://www.truthandgrace.online/8765/)
++ [《力量之戒》影评 (David Tang)](http://www.pacilution.com/ShowArticle.asp?ArticleID=12837)
