@@ -1,2 +1,1 @@
-# oxch-stufellowship.github.io
-Oxford chinese student fellowship website repo
+# Oxford Chinese Student Fellowship 牛津华人学生团契
