@@ -39,11 +39,11 @@ Oxford Ox2 6XA
 
 ## 联系方式 CONTACTS
 
-教会网址: https://www.ocgc.org.uk/
-邮箱: contact@ocgc.org.uk
-电话: 0752 9932 230
-微信: shellpickingboy
-IG: cgcostudents
++ 教会网址: https://www.ocgc.org.uk/
++ 邮箱: contact@ocgc.org.uk
++ 电话: 0752 9932 230
++ 微信: shellpickingboy
++ IG: cgcostudents
 
 
 
